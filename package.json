@@ -1,0 +1,28 @@
+{
+  "name": "simpsonsjokebot",
+  "version": "0.0.1",
+  "description": "Tweets prompts for Simpsons jokes.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/justinh00k/SimpsonsJokeBot.git"
+  },
+  "keywords": [
+    "simpsons",
+    "jokes",
+    "twitter",
+    "bot"
+  ],
+  "author": "Justin Hook <justinhook@gmail.com> (https://justinhook.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/justinh00k/SimpsonsJokeBot/issues"
+  },
+  "homepage": "https://github.com/justinh00k/SimpsonsJokeBot#readme",
+  "dependencies": {
+    "twitter": "^1.7.1"
+  }
+}
